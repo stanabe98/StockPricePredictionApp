@@ -12,3 +12,6 @@ The App will connect to the Python Flask server in the "PythonPredictionAlgorith
 To try out the application make sure the Flask server is running
 
 Download all the dependences for the prediction app and run it 
+
+Youtube video link to demonstration of application:
+https://www.youtube.com/watch?v=iEHIMPdGVBI 
