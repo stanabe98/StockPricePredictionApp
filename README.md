@@ -2,7 +2,6 @@ Stock Price prediction application
 
 
 This is Mobile Application built using React Native to make closing stock price predictions for the next 7 days
-
 The folder "PredictionApp" has all the code for the React Native Application
 
 The folder "PythonPredictionAlgorithm" has the python code which makes the prediction
